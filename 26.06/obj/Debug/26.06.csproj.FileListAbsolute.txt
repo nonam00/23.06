@@ -1,0 +1,8 @@
+D:\c#\26.06\26.06\bin\Debug\26.06.exe.config
+D:\c#\26.06\26.06\bin\Debug\26.06.exe
+D:\c#\26.06\26.06\bin\Debug\26.06.pdb
+D:\c#\26.06\26.06\obj\Debug\26.06.csproj.AssemblyReference.cache
+D:\c#\26.06\26.06\obj\Debug\26.06.csproj.SuggestedBindingRedirects.cache
+D:\c#\26.06\26.06\obj\Debug\26.06.csproj.CoreCompileInputs.cache
+D:\c#\26.06\26.06\obj\Debug\26.06.exe
+D:\c#\26.06\26.06\obj\Debug\26.06.pdb
